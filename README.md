@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Estagiando na Seicho-no-Ie do Brasil.<br>🌱 Cursando Análise e desenvolvimento de sistemas na FIAP.<br>📫 Contato: igorgcamargo1@gmail.com
+🔭 Trainee na Magna Sistemas.<br>🌱 Formado em Análise e desenvolvimento de sistemas na FIAP.<br>📫 Contato: icamargodev@gmail.com
 
 
 ## 🌐 Socials:
